@@ -133,6 +133,12 @@ node_modules/@framer/framer.device-skin-apple-iphone-xr-red/index.ts
 node_modules/@framer/framer.device-skin-apple-iphone-xr-red/device.png
 node_modules/@framer/framer.device-skin-apple-iphone-xr-red/build/index.js.map
 node_modules/@framer/framer.device-skin-apple-iphone-xr-red/build/index.js
+node_modules/@framer/framer.device-hand-iphone-2/yarn.lock
+node_modules/@framer/framer.device-hand-iphone-2/package.json
+node_modules/@framer/framer.device-hand-iphone-2/index.ts
+node_modules/@framer/framer.device-hand-iphone-2/hand.png
+node_modules/@framer/framer.device-hand-iphone-2/build/index.js.map
+node_modules/@framer/framer.device-hand-iphone-2/build/index.js
 node_modules/@framer/framer.device-hand-iphone-1/yarn.lock
 node_modules/@framer/framer.device-hand-iphone-1/package.json
 node_modules/@framer/framer.device-hand-iphone-1/index.ts
@@ -213,6 +219,7 @@ node_modules/@framer/andrewkallemeyn.camera/code/DisplayPhoto.tsx
 node_modules/@framer/andrewkallemeyn.camera/code/Camera.tsx
 node_modules/@framer/andrewkallemeyn.camera/README.md
 design/images/zxJx2qIF3GkUDil4MtHNFpZXA2M.jpg
+design/images/zZOnhZPesk826OGqlTqqeJPRCw
 design/images/y1LPc3svfhrLZnnK5wMuIxHTO4.jpg
 design/images/wsemyIyBAns2Hc8eUvqDqEEvI.jpg
 design/images/tj5dr5xj27miAKEVCmKecJcvSQ.jpg
@@ -252,7 +259,6 @@ design/images/YXioV7F1Xhsglk4sFYnmhPO4DvE.jpg
 design/images/YTD0lPIvXo0XpCnqlaiiStKSF7s.jpg
 design/images/XSv3m4N7IJgfvzVvZZKlsK7IPCk.jpg
 design/images/XA8PEZN3lPF1A0Fk4ilDYPVjM.jpg
-design/images/WvcSNU2E9KGATSd2Hw5dtlhwab0.jpg
 design/images/WWRmty7s3MDkE3Fqvwhy7LE9jsc.png
 design/images/WByGGvtD8XNGmwHYxyVxRKDdNos.jpg
 design/images/Vl7O9VQCbj3iP5BPlWt46lGzKqg
@@ -290,8 +296,8 @@ design/images/6Fn3TsWCELXwo4i5yvKrK79E.jpg
 design/images/68idPuoNBNT3DPL9M32LTAeNnL0.jpg
 design/images/5rlHevdamHIyNcnEFKBMLJdPjVY.png
 design/images/5Wq6Pgh8wuXczRwIGlLsknCYBZk.jpg
+design/images/5CAAmDutjhyGwHyKzOEKLPsOTI.jpg
 design/images/5AnNmZiFfAt47zBGrUoBBU81dRU.png
-design/images/506lyz5hYdoEv6azVNRUxgRiuv0.jpg
 design/images/3KsCbjRr05i9wFQovNcVQpyzM.jpg
 design/images/33En1a1IzZSWVZOCBDsLfJO3NI.jpg
 design/images/2xZPmdUcJnGCHHhYrb5ATTHjf4.jpg

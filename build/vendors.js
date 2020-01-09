@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["vendors~main"],{
 
-/***/ "../../../../../Applications/Framer X.app/Contents/Resources/Server/node_modules/process/browser.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/process/browser.js ***!
-  \*********************************************************************************************************/
+/***/ "../../../../../../../private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/process/browser.js":
+/*!***********************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/process/browser.js ***!
+  \***********************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -195,10 +195,10 @@ process.umask = function() { return 0; };
 
 /***/ }),
 
-/***/ "../../../../../Applications/Framer X.app/Contents/Resources/Server/node_modules/setimmediate/setImmediate.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/setimmediate/setImmediate.js ***!
-  \*******************************************************************************************************************/
+/***/ "../../../../../../../private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/setimmediate/setImmediate.js":
+/*!*********************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/setimmediate/setImmediate.js ***!
+  \*********************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -389,14 +389,14 @@ process.umask = function() { return 0; };
     attachTo.clearImmediate = clearImmediate;
 }(typeof self === "undefined" ? typeof global === "undefined" ? this : global : self));
 
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../webpack/buildin/global.js */ "../../../../../Applications/Framer X.app/Contents/Resources/Server/node_modules/webpack/buildin/global.js"), __webpack_require__(/*! ./../process/browser.js */ "../../../../../Applications/Framer X.app/Contents/Resources/Server/node_modules/process/browser.js")))
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../webpack/buildin/global.js */ "../../../../../../../private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/webpack/buildin/global.js"), __webpack_require__(/*! ./../process/browser.js */ "../../../../../../../private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/process/browser.js")))
 
 /***/ }),
 
-/***/ "../../../../../Applications/Framer X.app/Contents/Resources/Server/node_modules/timers-browserify/main.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/timers-browserify/main.js ***!
-  \****************************************************************************************************************/
+/***/ "../../../../../../../private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/timers-browserify/main.js":
+/*!******************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/timers-browserify/main.js ***!
+  \******************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -453,7 +453,7 @@ exports._unrefActive = exports.active = function(item) {
 };
 
 // setimmediate attaches itself to the global object
-__webpack_require__(/*! setimmediate */ "../../../../../Applications/Framer X.app/Contents/Resources/Server/node_modules/setimmediate/setImmediate.js");
+__webpack_require__(/*! setimmediate */ "../../../../../../../private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/setimmediate/setImmediate.js");
 // On some exotic environments, it's not clear which object `setimmediate` was
 // able to install onto.  Search each possibility in the same order as the
 // `setimmediate` library.
@@ -464,11 +464,11 @@ exports.clearImmediate = (typeof self !== "undefined" && self.clearImmediate) ||
                          (typeof global !== "undefined" && global.clearImmediate) ||
                          (this && this.clearImmediate);
 
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../webpack/buildin/global.js */ "../../../../../Applications/Framer X.app/Contents/Resources/Server/node_modules/webpack/buildin/global.js")))
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../webpack/buildin/global.js */ "../../../../../../../private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/webpack/buildin/global.js")))
 
 /***/ }),
 
-/***/ "../../../../../Applications/Framer X.app/Contents/Resources/Server/node_modules/webpack/buildin/global.js":
+/***/ "../../../../../../../private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/webpack/buildin/global.js":
 /*!***********************************!*\
   !*** (webpack)/buildin/global.js ***!
   \***********************************/
@@ -13469,7 +13469,7 @@ var autoReplace = function autoReplace() {
 
 
 
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../../../../../../../Applications/Framer X.app/Contents/Resources/Server/node_modules/webpack/buildin/global.js */ "../../../../../Applications/Framer X.app/Contents/Resources/Server/node_modules/webpack/buildin/global.js"), __webpack_require__(/*! ./../../../../../../../../Applications/Framer X.app/Contents/Resources/Server/node_modules/timers-browserify/main.js */ "../../../../../Applications/Framer X.app/Contents/Resources/Server/node_modules/timers-browserify/main.js").setImmediate))
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../../../../../../../../../private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/webpack/buildin/global.js */ "../../../../../../../private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/webpack/buildin/global.js"), __webpack_require__(/*! ./../../../../../../../../../../private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/timers-browserify/main.js */ "../../../../../../../private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/timers-browserify/main.js").setImmediate))
 
 /***/ }),
 
@@ -40866,9 +40866,9 @@ g,0<d.length&&(d=za[d[0]])&&(a.c[e]=d))}a.c[e]||(d=za[e])&&(a.c[e]=d);for(d=0;d<
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/andrewkallemeyn.camera/dist/index.js":
-/*!**************************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/andrewkallemeyn.camera/dist/index.js ***!
-  \**************************************************************************************************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/andrewkallemeyn.camera/dist/index.js ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41326,9 +41326,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_react__;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/basiclines.camera-feed/dist/index.js":
-/*!**************************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/basiclines.camera-feed/dist/index.js ***!
-  \**************************************************************************************************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/basiclines.camera-feed/dist/index.js ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41646,9 +41646,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_react__;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/benjamin.grid/dist/index.js":
-/*!*****************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/benjamin.grid/dist/index.js ***!
-  \*****************************************************************************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/benjamin.grid/dist/index.js ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -42015,9 +42015,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_react__;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/benjamin.icon-generator/dist/index.js":
-/*!***************************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/benjamin.icon-generator/dist/index.js ***!
-  \***************************************************************************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/benjamin.icon-generator/dist/index.js ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -44225,9 +44225,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_webfontloader__;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/benjamin.profile/dist/index.js":
-/*!********************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/benjamin.profile/dist/index.js ***!
-  \********************************************************************************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/benjamin.profile/dist/index.js ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -44626,9 +44626,33 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_react__;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/framer.device-hand-iphone-1/build/index.js":
-/*!********************************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/framer.device-hand-iphone-1/build/index.js ***!
-  \********************************************************************************************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/framer.device-hand-iphone-1/build/index.js ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+Object.defineProperty(exports, "__esModule", { value: true });
+class DeviceHand {
+    constructor() {
+        this.image = "hand.png";
+        this.width = 2399;
+        this.height = 3738;
+        this.offset = 0;
+    }
+}
+exports.DeviceHand = DeviceHand;
+//# sourceMappingURL=index.js.map
+
+
+/***/ }),
+
+/***/ "framer-package-loader.js!./node_modules/@framer/framer.device-hand-iphone-2/build/index.js":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/framer.device-hand-iphone-2/build/index.js ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -44650,9 +44674,9 @@ exports.DeviceHand = DeviceHand;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/framer.device-skin-apple-iphone-xr-red/build/index.js":
-/*!*******************************************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/framer.device-skin-apple-iphone-xr-red/build/index.js ***!
-  \*******************************************************************************************************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/framer.device-skin-apple-iphone-xr-red/build/index.js ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -44675,9 +44699,9 @@ exports.DeviceSkin = DeviceSkin;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/framer.device-skin-apple-iphone-xr-silver/build/index.js":
-/*!**********************************************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/framer.device-skin-apple-iphone-xr-silver/build/index.js ***!
-  \**********************************************************************************************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/framer.device-skin-apple-iphone-xr-silver/build/index.js ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -44700,9 +44724,9 @@ exports.DeviceSkin = DeviceSkin;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/framer.device-skin-apple-iphone-xr-spacegrey/build/index.js":
-/*!*************************************************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/framer.device-skin-apple-iphone-xr-spacegrey/build/index.js ***!
-  \*************************************************************************************************************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/framer.device-skin-apple-iphone-xr-spacegrey/build/index.js ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -44725,9 +44749,9 @@ exports.DeviceSkin = DeviceSkin;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/janvanwtf.youtube/dist/index.js":
-/*!*********************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/janvanwtf.youtube/dist/index.js ***!
-  \*********************************************************************************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/janvanwtf.youtube/dist/index.js ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -45069,15 +45093,15 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_react__;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/kasimir.iphone-x-kit/dist/index.js":
-/*!************************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/kasimir.iphone-x-kit/dist/index.js ***!
-  \************************************************************************************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/kasimir.iphone-x-kit/dist/index.js ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(true)
-		module.exports = factory(__webpack_require__(/*! framer */ "framer"), (function webpackLoadOptionalExternalModule() { try { return __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module 'framer-package-loader!@framer/framer.device-hand-iphone-2'"); e.code = 'MODULE_NOT_FOUND'; throw e; }())); } catch(e) {} }()), __webpack_require__(/*! react */ "react"));
+		module.exports = factory(__webpack_require__(/*! framer */ "framer"), (function webpackLoadOptionalExternalModule() { try { return __webpack_require__(/*! framer-package-loader!@framer/framer.device-hand-iphone-2 */ "framer-package-loader.js!./node_modules/@framer/framer.device-hand-iphone-2/build/index.js"); } catch(e) {} }()), __webpack_require__(/*! react */ "react"));
 	else { var i, a; }
 })(window, function(__WEBPACK_EXTERNAL_MODULE_framer__, __WEBPACK_EXTERNAL_MODULE_framer_package_loader_framer_framer_device_hand_iphone_2__, __WEBPACK_EXTERNAL_MODULE_react__) {
 return /******/ (function(modules) { // webpackBootstrap
@@ -45724,9 +45748,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_react__;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/krijn.video-player/dist/index.js":
-/*!**********************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/krijn.video-player/dist/index.js ***!
-  \**********************************************************************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/krijn.video-player/dist/index.js ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -46086,9 +46110,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_react__;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/maximedegreve.tinyfaces/dist/index.js":
-/*!***************************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/maximedegreve.tinyfaces/dist/index.js ***!
-  \***************************************************************************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/maximedegreve.tinyfaces/dist/index.js ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -46465,9 +46489,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_react__;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/sjlee.twitch-player-and-chat/build/index.js":
-/*!*********************************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/sjlee.twitch-player-and-chat/build/index.js ***!
-  \*********************************************************************************************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/sjlee.twitch-player-and-chat/build/index.js ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -46706,9 +46730,9 @@ eval("module.exports = __WEBPACK_EXTERNAL_MODULE_react__;//# sourceURL=[module]\
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/talkaboutdesign.design-hunt/dist/index.js":
-/*!*******************************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/talkaboutdesign.design-hunt/dist/index.js ***!
-  \*******************************************************************************************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/talkaboutdesign.design-hunt/dist/index.js ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -47054,9 +47078,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_react__;
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/tryjohnny.avataaars/build/index.js":
-/*!************************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/tryjohnny.avataaars/build/index.js ***!
-  \************************************************************************************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/tryjohnny.avataaars/build/index.js ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -47223,9 +47247,9 @@ eval("module.exports = __WEBPACK_EXTERNAL_MODULE_react__;//# sourceURL=[module]\
 /***/ }),
 
 /***/ "framer-package-loader.js!./node_modules/@framer/unsplash.unsplash/build/index.js":
-/*!**********************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/unsplash.unsplash/build/index.js ***!
-  \**********************************************************************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /private/var/folders/x7/wh8xrl8138337h187222rk3w00gk9c/T/AppTranslocation/616B6F7E-F3BD-4AA1-BA6D-D729435523B9/d/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/unsplash.unsplash/build/index.js ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
