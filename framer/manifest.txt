@@ -162,6 +162,21 @@ node_modules/@framer/framer.device-hand-iphone-1/index.ts
 node_modules/@framer/framer.device-hand-iphone-1/hand.png
 node_modules/@framer/framer.device-hand-iphone-1/build/index.js.map
 node_modules/@framer/framer.device-hand-iphone-1/build/index.js
+node_modules/@framer/facebook.facebook-login/tsconfig.json
+node_modules/@framer/facebook.facebook-login/package.json
+node_modules/@framer/facebook.facebook-login/metadata/icon.png
+node_modules/@framer/facebook.facebook-login/metadata/artwork.png
+node_modules/@framer/facebook.facebook-login/design/images/yLtYUJnsTXKqrqXxXUZSXv9Ks.png
+node_modules/@framer/facebook.facebook-login/design/images/lBkPYdCmBylthYqLDDriVdeMGU.png
+node_modules/@framer/facebook.facebook-login/design/images/cpKqiWcYKDO1c6uQJ5kuqkvi5ZQ.png
+node_modules/@framer/facebook.facebook-login/design/images/3Zn2zd8EKfbLZ0julymZzOZZ5hs.png
+node_modules/@framer/facebook.facebook-login/design/document.json
+node_modules/@framer/facebook.facebook-login/code/canvas.tsx
+node_modules/@framer/facebook.facebook-login/code/FBLoginButton.tsx
+node_modules/@framer/facebook.facebook-login/code/Examples.tsx
+node_modules/@framer/facebook.facebook-login/code/App.tsx
+node_modules/@framer/facebook.facebook-login/build/index.js
+node_modules/@framer/facebook.facebook-login/README.md
 node_modules/@framer/benjamin.icon-generator/tsconfig.json
 node_modules/@framer/benjamin.icon-generator/package.json
 node_modules/@framer/benjamin.icon-generator/metadata/icon.png
@@ -265,6 +280,7 @@ design/images/TkYqm28VMO61EM4IAdqU5JrLnCw.jpg
 design/images/T9ypTKXxRF7xC8ZhSNLmxeBrSY.jpg
 design/images/SZtgx3qJaQnZsnNi8VkgVLa4hdc.jpg
 design/images/SF6tbxrEcWCV8wyL2XLNeJtifKE.png
+design/images/S1RRM7PaxmvY3Jd7vXaKSAgU.png
 design/images/R2NAbk5qqVtZyaCGyIwK0duGgw.jpg
 design/images/QupnRXwrrDNg5lfz4XHBtyqUoQ.png
 design/images/PxKsgWru50ggV32mrjX6WOSLhY.jpg
@@ -327,6 +343,7 @@ design/images/2SAFtdmP0TnUuVADnfn87R8b0QY.jpg
 design/images/1epsZfMPyDYibQraW0h5Cz4NaY.png
 design/images/0JOA4m5jZduY6QD8r0SfxQlMfQ0.jpg
 design/images/0CpiqxIM6mMYiaBEEBXxSvR68ds.png
+design/assets/v2poolbasketball.mp4
 design/assets/v2lakersvsclippers.mp4
 design/assets/suvdesert.mp4
 design/assets/garywoodlandswing.mp4
@@ -335,6 +352,7 @@ design/assets/dubai4wheelers.mp4
 design/assets/The Dark Knight (Trailer).mp4
 design/assets/Star Wars_ The Rise of Skywalker – Teaser.mp4
 design/assets/SEE — Official Trailer _ Apple TV .mp4
+design/assets/Poolbasketball.mp4
 design/assets/Gatsbyintro.mp4
 design/assets/Dustinjohnson.mp4
 design/assets/Billions Season 3 Trailer (HD).mp4
