@@ -356,6 +356,8 @@ design/images/1epsZfMPyDYibQraW0h5Cz4NaY.png
 design/images/0Kczd5UgesLT0kBo4Gj13yMkJS4.jpg
 design/images/0JOA4m5jZduY6QD8r0SfxQlMfQ0.jpg
 design/images/0CpiqxIM6mMYiaBEEBXxSvR68ds.png
+design/assets/v4commercials.mp4
+design/assets/v3commercials.mp4
 design/assets/v2poolbasketball.mp4
 design/assets/v2lakersvsclippers.mp4
 design/assets/v2commercials.mp4
@@ -369,6 +371,7 @@ design/assets/SEE — Official Trailer _ Apple TV .mp4
 design/assets/Poolbasketball.mp4
 design/assets/Gatsbyintro.mp4
 design/assets/Dustinjohnson.mp4
+design/assets/Commercials.mp4
 design/assets/Billions Season 3 Trailer (HD).mp4
 build/vendors.js
 build/framer.js
