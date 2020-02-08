@@ -55958,6 +55958,31 @@ exports.DeviceSkin = DeviceSkin;
 
 /***/ }),
 
+/***/ "framer-package-loader.js!./node_modules/@framer/framer.device-skin-apple-iphone8-space-gray/build/index.js":
+/*!************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/framer.device-skin-apple-iphone8-space-gray/build/index.js ***!
+  \************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+Object.defineProperty(exports, "__esModule", { value: true });
+class DeviceSkin {
+    constructor() {
+        this.image = "device.png";
+        this.imageWidth = 871;
+        this.imageHeight = 1776;
+        this.padding = 40;
+        this.background = "black";
+    }
+}
+exports.DeviceSkin = DeviceSkin;
+//# sourceMappingURL=index.js.map
+
+
+/***/ }),
+
 /***/ "framer-package-loader.js!./node_modules/@framer/framer.examples/dist/index.js":
 /*!*******************************************************************************************************************************************************************************************************************!*\
   !*** /Users/gatsby/Applications/Framer X.app/Contents/Resources/Server/node_modules/@framerjs/build-library/build/Compiler/loaders/framer-package-loader.js!./node_modules/@framer/framer.examples/dist/index.js ***!

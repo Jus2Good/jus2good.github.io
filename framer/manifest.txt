@@ -132,6 +132,12 @@ node_modules/@framer/framer.examples/code/AlertView.tsx
 node_modules/@framer/framer.examples/code/ActionSheet.tsx
 node_modules/@framer/framer.examples/build/index.js
 node_modules/@framer/framer.examples/README.md
+node_modules/@framer/framer.device-skin-apple-iphone8-space-gray/yarn.lock
+node_modules/@framer/framer.device-skin-apple-iphone8-space-gray/package.json
+node_modules/@framer/framer.device-skin-apple-iphone8-space-gray/index.ts
+node_modules/@framer/framer.device-skin-apple-iphone8-space-gray/device.png
+node_modules/@framer/framer.device-skin-apple-iphone8-space-gray/build/index.js.map
+node_modules/@framer/framer.device-skin-apple-iphone8-space-gray/build/index.js
 node_modules/@framer/framer.device-skin-apple-iphone-xr-spacegrey/yarn.lock
 node_modules/@framer/framer.device-skin-apple-iphone-xr-spacegrey/package.json
 node_modules/@framer/framer.device-skin-apple-iphone-xr-spacegrey/index.ts
@@ -224,7 +230,6 @@ design/images/ty9iYUw2AEPbvSFNZmqGEM6e6g.jpg
 design/images/tj5dr5xj27miAKEVCmKecJcvSQ.jpg
 design/images/tQ0c6UotFAZzx298SqEwijJm0U.jpg
 design/images/ssp1C8fiogvY0tcNX5RvYeJexn0.png
-design/images/si6leymjonXs8dohO8DQqj8Viow.png
 design/images/s0WIm1JN1ExPUwFofNnOXUprpw.jpg
 design/images/rbLSlGhRftuQkKOvaivTWIbCyI.png
 design/images/r6JUNbLit9dg9F9YeD9wn5LG1xM.jpg
